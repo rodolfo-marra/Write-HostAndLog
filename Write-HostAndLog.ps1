@@ -89,7 +89,9 @@ function Write-HostAndLog{
 Out-File -FilePath $Logs -InputObject "$(Get-Date) - Log Begin"
 
 #################################
+####
 ####   PUT YOUR SCRIPT HERE   ###
+####
 #################################
 
 # End script log
